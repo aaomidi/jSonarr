@@ -13,6 +13,6 @@ public class EpisodeFileResource {
     private final long size;
     private final Date dateAdded;
     private final String sceneName;
-    // TODO Add QualityModel quality;
+    private final QualityModel quality;
     private boolean qualityCutoffNotMet;
 }

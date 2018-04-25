@@ -5,5 +5,5 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 public class QualityModel {
     private final Quality quality;
-    // TODO revision??
+    private final Revision revision;
 }
