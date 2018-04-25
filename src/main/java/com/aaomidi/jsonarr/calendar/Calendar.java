@@ -1,4 +1,4 @@
-package com.aaomidi.jsonarr;
+package com.aaomidi.jsonarr.calendar;
 
 import com.aaomidi.jsonarr.episodes.Episode;
 import lombok.Data;
