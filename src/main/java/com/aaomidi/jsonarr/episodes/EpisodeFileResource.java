@@ -1,5 +1,6 @@
 package com.aaomidi.jsonarr.episodes;
 
+import com.aaomidi.jsonarr.quality.QualityModel;
 import lombok.Data;
 
 import java.util.Date;

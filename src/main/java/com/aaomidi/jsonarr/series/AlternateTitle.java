@@ -1,5 +1,8 @@
 package com.aaomidi.jsonarr.series;
 
+import lombok.Data;
+
+@Data
 public class AlternateTitle {
 
     private final String title;

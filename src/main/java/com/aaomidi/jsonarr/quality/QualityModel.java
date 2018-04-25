@@ -1,8 +1,8 @@
 package com.aaomidi.jsonarr.quality;
 
-import lombok.RequiredArgsConstructor;
+import lombok.Data;
 
-@RequiredArgsConstructor
+@Data
 public class QualityModel {
     private final Quality quality;
     private final Revision revision;

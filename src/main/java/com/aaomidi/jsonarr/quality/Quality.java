@@ -1,8 +1,8 @@
 package com.aaomidi.jsonarr.quality;
 
-import lombok.RequiredArgsConstructor;
+import lombok.Data;
 
-@RequiredArgsConstructor
+@Data
 public class Quality {
     private final int id;
     private final String name;
