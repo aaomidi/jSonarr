@@ -8,7 +8,7 @@ public enum SeriesType {
 
     private final int id;
 
-    SeriesStatusType(int id) {
+    SeriesType(int id) {
         this.id = id;
     }
 
