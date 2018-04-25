@@ -1,5 +1,6 @@
 package com.aaomidi.jsonarr.episodes;
 
+import com.aaomidi.jsonarr.series.Series;
 import lombok.Data;
 
 import java.util.Date;
@@ -24,7 +25,7 @@ public class Episode {
     private final int sceneSeasonNumber;
     private final boolean unverifiedSceneNumbering;
     private final String seriesTitle;
-    //TODO Add Series Resource
+    private final Series series;
     private final boolean grabbed;
 
 
