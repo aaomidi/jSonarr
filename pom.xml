@@ -62,6 +62,15 @@
             </roles>
             <timezone>EST</timezone>
         </developer>
+        <developer>
+            <id>bo0tzz</id>
+            <name>Boet de Willigen</name>
+            <email>boet@dewilligen.net</email>
+            <roles>
+                <role>developer</role>
+            </roles>
+            <timezone>CEST</timezone>
+        </developer>
     </developers>
 
     <dependencies>
